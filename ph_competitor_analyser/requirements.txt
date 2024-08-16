@@ -1,0 +1,6 @@
+langgraph
+langchain-core
+openai
+langchain_openai
+dateparser
+pyairtable

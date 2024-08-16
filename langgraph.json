@@ -1,0 +1,7 @@
+{
+    "dependencies": ["./ph_competitor_analyser"],
+    "graphs": {
+      "agent": "./ph_competitor_analyser/agent.py:graph"
+    },
+    "env": ".env"
+  }
